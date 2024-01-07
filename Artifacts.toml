@@ -1,288 +1,288 @@
 [[AMGCL_C]]
 arch = "aarch64"
-git-tree-sha1 = "c8a69429baa07bfee8b1a17829799777d7e8ba87"
+git-tree-sha1 = "c99c6b7f9701b46f6d057a453e3abd54281df0c2"
 os = "macos"
 
     [[AMGCL_C.download]]
-    sha256 = "1b7aae3686a446df8dafa87c0a9a37024a46cba64e3bfea9174d6adafad32a3f"
-    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.1.2+0/AMGCL_C.v0.1.2.aarch64-apple-darwin.tar.gz"
+    sha256 = "6776950567c378d19f42191729fc13a61fa8f0a3b03e7bda5a8ba9cad92bb901"
+    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.2.0+0/AMGCL_C.v0.2.0.aarch64-apple-darwin.tar.gz"
 [[AMGCL_C]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "3dca8ea1f2df770c0781f289f7f328c37c97a068"
+git-tree-sha1 = "9753a4c185b66f91a9352001c89bee09da3542b5"
 libc = "glibc"
 os = "linux"
 
     [[AMGCL_C.download]]
-    sha256 = "922b526c88c921e69987bc0254f44cee2ef74676fc17fbbdd8669372555dd6d5"
-    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.1.2+0/AMGCL_C.v0.1.2.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "0b9c2cfcc0728d52d6cb6310c44a6ea9049c6ff0548571cc8d30729cf565b4c9"
+    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.2.0+0/AMGCL_C.v0.2.0.aarch64-linux-gnu-cxx03.tar.gz"
 [[AMGCL_C]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b4f1d3a10826016dd14808e87cee2d7a3b3decef"
+git-tree-sha1 = "f05dd472c897b456ca15f30f842d04b0b647644a"
 libc = "glibc"
 os = "linux"
 
     [[AMGCL_C.download]]
-    sha256 = "6484a8ed0bae767f293b760791af31fae0ac75a9709774296563446626c1e1ab"
-    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.1.2+0/AMGCL_C.v0.1.2.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "ad475573e83691c565f1e1db9cbf67d12a6f593fffb932e794bbd509afb34a28"
+    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.2.0+0/AMGCL_C.v0.2.0.aarch64-linux-gnu-cxx11.tar.gz"
 [[AMGCL_C]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a721cec3cdfc71f97747bb142b2b6cd06a9f61a6"
+git-tree-sha1 = "f498acdb7d35d3ffe0fccb073630a3751760f89e"
 libc = "musl"
 os = "linux"
 
     [[AMGCL_C.download]]
-    sha256 = "b5fa2cef1e75de0c9ce1c33bc7f486b04fee1e9ece9be267fa0b4a75977e48bd"
-    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.1.2+0/AMGCL_C.v0.1.2.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "616f877e4c90576ea55a10c125c48cdd050594e7d35b508a0c689afe1cbf737f"
+    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.2.0+0/AMGCL_C.v0.2.0.aarch64-linux-musl-cxx03.tar.gz"
 [[AMGCL_C]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "fec79c3c602c47d2a5369105d07bb53872d6258e"
+git-tree-sha1 = "e2a0992e14b4238786cfed26e484dd715923f754"
 libc = "musl"
 os = "linux"
 
     [[AMGCL_C.download]]
-    sha256 = "05b3dafd2ff4090cceab617fbd9714ac1b71c3bd89a4aa0930d0c910037cced4"
-    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.1.2+0/AMGCL_C.v0.1.2.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "f34c1c456647c8309854dbc1526bd99afa750150fca1dac0f11ab16b25b6363a"
+    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.2.0+0/AMGCL_C.v0.2.0.aarch64-linux-musl-cxx11.tar.gz"
 [[AMGCL_C]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "dc8da735c4a31ceb0b65ce31b3722cda51e4d2a2"
+git-tree-sha1 = "34a98577a0a6d6f4d278c4ac9544815bdd0ac472"
 libc = "glibc"
 os = "linux"
 
     [[AMGCL_C.download]]
-    sha256 = "455ce8ff7ff6d5347fca52915f0e38d3b78b8d70af849fb6a17ac7e27a4d37d0"
-    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.1.2+0/AMGCL_C.v0.1.2.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "9e2f44c9139782a8efa0452a2664580b5fcb9281522aeb8df572bee4720c133b"
+    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.2.0+0/AMGCL_C.v0.2.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[AMGCL_C]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "96b0552e8a1d6db32e6fbfa29df6ebdd676021df"
+git-tree-sha1 = "a408d24e92626a994d0165804af3b5cf4d18f5c4"
 libc = "glibc"
 os = "linux"
 
     [[AMGCL_C.download]]
-    sha256 = "28271080f3c1fa5c52dffedaa4b64aff8198016bae6217b08ed3484f77a12a3c"
-    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.1.2+0/AMGCL_C.v0.1.2.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "7c76019a8aff09c585d7c10c0957f307508384556f531e38d3d4147dd82ac35b"
+    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.2.0+0/AMGCL_C.v0.2.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[AMGCL_C]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "3c1b24441853fa91211d9f52e8a20ffd18acc814"
+git-tree-sha1 = "638dd327372b1d055a4460e2721d11e3b287a3f7"
 libc = "musl"
 os = "linux"
 
     [[AMGCL_C.download]]
-    sha256 = "fd4ea84692cbb3bffc8d712b4d92a67ab0f7b44e9c8b484275d064a6324bba13"
-    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.1.2+0/AMGCL_C.v0.1.2.armv6l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "404c6113764b6c895ad582d5476acdfd87626d27766ad7ddb9bc334b6fb2337e"
+    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.2.0+0/AMGCL_C.v0.2.0.armv6l-linux-musleabihf-cxx03.tar.gz"
 [[AMGCL_C]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9aa50795d3e9ada4cfc77b9e1ac4d1d2ccdb5fd4"
+git-tree-sha1 = "df67e787b01c6181bd049c956d234b5f0d6b84d2"
 libc = "musl"
 os = "linux"
 
     [[AMGCL_C.download]]
-    sha256 = "56a662cf584b792422047dddc92eb56a5db7474565b004d2cf5e42c292825120"
-    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.1.2+0/AMGCL_C.v0.1.2.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "b69e243238b7904602aa06e0e8dc801c67a510e7002d6b17b073c309b366c839"
+    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.2.0+0/AMGCL_C.v0.2.0.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[AMGCL_C]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "41278b5b7c2cc5d5bb1550b2b5b9300780e97a73"
+git-tree-sha1 = "eba5e45bd74e9b20f3049939d1c28ffcec7498df"
 libc = "glibc"
 os = "linux"
 
     [[AMGCL_C.download]]
-    sha256 = "36b5a6880f40b25a8d257dc1f854aba0a52fca23af6acd4e54fa057c3b5ab102"
-    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.1.2+0/AMGCL_C.v0.1.2.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "ac96ab893be2d6febdca733bc6b8d61a4636e428323d91f4f609774b5c631172"
+    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.2.0+0/AMGCL_C.v0.2.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[AMGCL_C]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8d9a1255faac0ae2cb6a9af0d5e67ea95dc38eda"
+git-tree-sha1 = "dd2ff16f621c9f56cced83b496e78d743be2fc1c"
 libc = "glibc"
 os = "linux"
 
     [[AMGCL_C.download]]
-    sha256 = "73f460aa1f7574f53dc2009b506e6ab878d379082980f22fb6cd21bf4128ebba"
-    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.1.2+0/AMGCL_C.v0.1.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "498cdadd40598e7dd35c07f6c7c8b73520df1a34e86f51e98178984fcd3b8cd2"
+    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.2.0+0/AMGCL_C.v0.2.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[AMGCL_C]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "adf2c272a229b3dafe0264fd479c5d6ea40a4b5b"
+git-tree-sha1 = "4f1aa1ac024a2b722cb60b8f14727c11b08299c0"
 libc = "musl"
 os = "linux"
 
     [[AMGCL_C.download]]
-    sha256 = "04aca83e22c191e859772731cecad3ec8bd8782cf6f875308d7be3c6ad5c8c94"
-    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.1.2+0/AMGCL_C.v0.1.2.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "b5d897b1469b0d0d349e28ecb95c3281ccf18ad155fd028f78c14883df0e42f8"
+    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.2.0+0/AMGCL_C.v0.2.0.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[AMGCL_C]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c2d250b5710ed4f976bfafce26238dba033a9126"
+git-tree-sha1 = "b8f93e0a4f9e6cce3ea29aa474bb3849f79a3d6d"
 libc = "musl"
 os = "linux"
 
     [[AMGCL_C.download]]
-    sha256 = "58a607328293f306938ae28745b23ccc2b2bec611580f9901a5c30fc63414dfd"
-    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.1.2+0/AMGCL_C.v0.1.2.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "6218d6890186fd047af8e6c2bae146c23da9ff14e5f20fe520bc9276252f8a58"
+    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.2.0+0/AMGCL_C.v0.2.0.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[AMGCL_C]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "08721585d2acd44927cb4b858d28d9d751fc7c91"
+git-tree-sha1 = "0c224a6a9dddc1fcd07b0e59d825dfdffb644ab7"
 libc = "glibc"
 os = "linux"
 
     [[AMGCL_C.download]]
-    sha256 = "0e79b8b0a4c7eb0ac974594209e3677d59cd63687402d5d1f70a7e9e8d914a37"
-    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.1.2+0/AMGCL_C.v0.1.2.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "d54c00fa305c5e371f7c374478489a7c90333cc389e4ca57b1b71c31fea74f96"
+    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.2.0+0/AMGCL_C.v0.2.0.i686-linux-gnu-cxx03.tar.gz"
 [[AMGCL_C]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "620860deed3a2bfa0d4776e66c075694651f03fb"
+git-tree-sha1 = "7bea312c6e7fe5af7bea4ed2692bd8f7f8ad2f12"
 libc = "glibc"
 os = "linux"
 
     [[AMGCL_C.download]]
-    sha256 = "5530b5df65faa833a642d29ad162618468a7a213ddb9faa26ebceeb147945e95"
-    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.1.2+0/AMGCL_C.v0.1.2.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "5d2db2cfba3cb872525b5c9f02d4a692b9c17e0d52c3065d3d675279bf6a8948"
+    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.2.0+0/AMGCL_C.v0.2.0.i686-linux-gnu-cxx11.tar.gz"
 [[AMGCL_C]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "95d78b3ff167d9b8b7379f97b466504fb038b283"
+git-tree-sha1 = "d7822a11607b941cd6ab7ba567005d1364408648"
 libc = "musl"
 os = "linux"
 
     [[AMGCL_C.download]]
-    sha256 = "e2d2849989e36fadcb953130d40fc208361e07e2c59c38e25516ffa9e9208e5d"
-    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.1.2+0/AMGCL_C.v0.1.2.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "28463c3265334685b4a4ebbb1ecd03fb6100feb9eefb56eedefd3f6c4a46cdac"
+    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.2.0+0/AMGCL_C.v0.2.0.i686-linux-musl-cxx03.tar.gz"
 [[AMGCL_C]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "10ff80d2d4cfbca2868394380b9a0fb92b9c4be1"
+git-tree-sha1 = "b1abeb23b1e52172558da0ed3efa832653db8f3b"
 libc = "musl"
 os = "linux"
 
     [[AMGCL_C.download]]
-    sha256 = "fb91edf90a003956a80760cd0d336cf267a2a62e5e53577aa54fcaf5f5639cc0"
-    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.1.2+0/AMGCL_C.v0.1.2.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "50a6fcca19ba0609fa9e0bf9f1604b9519d591012f1de6513ef6eaa519e3e28e"
+    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.2.0+0/AMGCL_C.v0.2.0.i686-linux-musl-cxx11.tar.gz"
 [[AMGCL_C]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "de4358a8d28a213a4ce6383c15f3a224c1ee7874"
+git-tree-sha1 = "37d5c1b332ad8039f42344195f26e08dac8cab86"
 os = "windows"
 
     [[AMGCL_C.download]]
-    sha256 = "83a4a3a5254e8d6c1f3b0a7120d7b7827d28450284f82c96fabbe97e76ba4551"
-    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.1.2+0/AMGCL_C.v0.1.2.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "11c7a67268f3759324bc5677573f4cabd48fe343a7a3e3635890dc04561f358e"
+    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.2.0+0/AMGCL_C.v0.2.0.i686-w64-mingw32-cxx03.tar.gz"
 [[AMGCL_C]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3c3d32e100ad447e279c03b8fdb2cd15d09a7558"
+git-tree-sha1 = "e82c95ee646cc9ea4f52e5fe1d67a6d98d164bda"
 os = "windows"
 
     [[AMGCL_C.download]]
-    sha256 = "f9d9ed77713e58f12f3c7e4ee2e140a9c07b1e5743eee32406ac8899d70e1385"
-    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.1.2+0/AMGCL_C.v0.1.2.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "e54314b7e39df456d7d1d35d92f8e31da387d6beeaa33341bd1d8b2972640e38"
+    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.2.0+0/AMGCL_C.v0.2.0.i686-w64-mingw32-cxx11.tar.gz"
 [[AMGCL_C]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "5b6ab073ed960d0b768fcfe7b9c4ba77694ae39c"
+git-tree-sha1 = "c2b015a13917d383e284aa28f6cbb93d20d2a4c2"
 libc = "glibc"
 os = "linux"
 
     [[AMGCL_C.download]]
-    sha256 = "d1c6526dfb58f1162c6fafb7e75a6f4184dfe98a58e4759a200a9fbc4acdd502"
-    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.1.2+0/AMGCL_C.v0.1.2.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "35f5045d7d1b6079e8ce8e2825cd7d84246f34ee8573aa9fce2048df366b555f"
+    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.2.0+0/AMGCL_C.v0.2.0.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[AMGCL_C]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3656b46dbe26d302fa18390528598b893f29d8f9"
+git-tree-sha1 = "6971c6ead01e88ce81078f86a20adcae5d98c02a"
 libc = "glibc"
 os = "linux"
 
     [[AMGCL_C.download]]
-    sha256 = "bb282a1e8c806d8697ad4f7a75666ac488f9038f78ad9c3f661205ee9d519483"
-    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.1.2+0/AMGCL_C.v0.1.2.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "bac408404a404b1c314ccd6904e81b6a06244633e38b26d60e6ced24f7584349"
+    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.2.0+0/AMGCL_C.v0.2.0.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[AMGCL_C]]
 arch = "x86_64"
-git-tree-sha1 = "63521a65dfe54e9d2368b9452e3b12951dd61cc7"
+git-tree-sha1 = "dd31a70e2bcf15dc499fbe93cb9c0dfb80b6bbd2"
 os = "macos"
 
     [[AMGCL_C.download]]
-    sha256 = "62957c472a2cb9beb0607c11d5788cfb38dbb28e9fbf4e9d174731ba48374a63"
-    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.1.2+0/AMGCL_C.v0.1.2.x86_64-apple-darwin.tar.gz"
+    sha256 = "c03da98142f0515b340c72f519a4f1a1310d27511b150fa7de731ee61de1e33c"
+    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.2.0+0/AMGCL_C.v0.2.0.x86_64-apple-darwin.tar.gz"
 [[AMGCL_C]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a3ec4f04bee684438fd58f14a907218abd0f2554"
+git-tree-sha1 = "87d7e5851246ef07e45d17d74c2b9fb8300df189"
 libc = "glibc"
 os = "linux"
 
     [[AMGCL_C.download]]
-    sha256 = "e20014d5e1e4a31eb4732b6bbd4320f26adf767b9f5c4df3ba170ec386ee9c8b"
-    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.1.2+0/AMGCL_C.v0.1.2.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "ca9f2c2f28260bbf0c308d78dd90ca9ad54bc13bd28e711e2b85f0cbe71567d0"
+    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.2.0+0/AMGCL_C.v0.2.0.x86_64-linux-gnu-cxx03.tar.gz"
 [[AMGCL_C]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "17472373ab8d6163c7c616098e80dab6d0e49021"
+git-tree-sha1 = "61eb504443d86f72bedfafa827d2bffd34651b81"
 libc = "glibc"
 os = "linux"
 
     [[AMGCL_C.download]]
-    sha256 = "43fa4f9e3de099ad0cdfac37e7da8e8bfad128d051de69a5363dba75c9507d00"
-    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.1.2+0/AMGCL_C.v0.1.2.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "0da71083a1433765b7625153a7f40621caf8c3626b63fda6c877fcb17a393e28"
+    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.2.0+0/AMGCL_C.v0.2.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[AMGCL_C]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "007b0d7820653183b85a10aa7d216573e6814838"
+git-tree-sha1 = "74fdc9e7fc1d9269a31557ac957b278a4efba64c"
 libc = "musl"
 os = "linux"
 
     [[AMGCL_C.download]]
-    sha256 = "51888256e7b5806fed23e6d75cea19589493f5f4ee89a51f754f1ebfc4754970"
-    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.1.2+0/AMGCL_C.v0.1.2.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "65ecc41f812359c86ccac9454e8985c1ee3432a64483d4327d83a53d58d23993"
+    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.2.0+0/AMGCL_C.v0.2.0.x86_64-linux-musl-cxx03.tar.gz"
 [[AMGCL_C]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "61409f847506deaa3b6326bed9a9d07743805ab4"
+git-tree-sha1 = "62f4f31e1f5bb42b84e8d6aa4004be036ec35064"
 libc = "musl"
 os = "linux"
 
     [[AMGCL_C.download]]
-    sha256 = "ba9c6fb04ae8e653680a1c83f9f833882bedfe4a19f0c8efe4dd96921e182043"
-    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.1.2+0/AMGCL_C.v0.1.2.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "3d676d20220183da186f06ff3025b393ff3f27335d7a8205adc68fc36f957f7d"
+    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.2.0+0/AMGCL_C.v0.2.0.x86_64-linux-musl-cxx11.tar.gz"
 [[AMGCL_C]]
 arch = "x86_64"
-git-tree-sha1 = "b2d2fe01d48f69d193c2ced013c1f0943321c7bf"
+git-tree-sha1 = "dbd0f80257c58e748cd1f45e35a65f6cb5315678"
 os = "freebsd"
 
     [[AMGCL_C.download]]
-    sha256 = "ff1d4077b7874eec8a6ae8529227d83be70acea97bd7b6aa7841a2c16a75c889"
-    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.1.2+0/AMGCL_C.v0.1.2.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "2f106a9fa60d17fff28cdec194731c3d73badc21098740c7fa4e959e5ac64685"
+    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.2.0+0/AMGCL_C.v0.2.0.x86_64-unknown-freebsd.tar.gz"
 [[AMGCL_C]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e23a1c12ba65892ce98b672ad57bf5c09870d553"
+git-tree-sha1 = "002ae1cafc74f5fb4d81cf66037cb257d19dedb6"
 os = "windows"
 
     [[AMGCL_C.download]]
-    sha256 = "b5d2c15333fae593e9787df0d04954dc3a36b0175bcbbec6987c3a30387f8303"
-    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.1.2+0/AMGCL_C.v0.1.2.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "5a3b5e4cba6ba82067f7cbc438babf06fbff73adb2ae0dd9e2f6a878fe90aeb8"
+    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.2.0+0/AMGCL_C.v0.2.0.x86_64-w64-mingw32-cxx03.tar.gz"
 [[AMGCL_C]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "133079545e0343eb3215ab0de454c1f0c7d96daf"
+git-tree-sha1 = "2f1f6cf4d857c38fb803409c52b06198f61baad1"
 os = "windows"
 
     [[AMGCL_C.download]]
-    sha256 = "45cb57ef1d5b9a4fc36c1f96c9a28a0a3d4d202138448cf4feb36ff49fff375b"
-    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.1.2+0/AMGCL_C.v0.1.2.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "c24d6b990ddfb63848a9c17e6a068bdedccee94a7bb8462959eb3dfc0d730cd1"
+    url = "https://github.com/JuliaBinaryWrappers/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.2.0+0/AMGCL_C.v0.2.0.x86_64-w64-mingw32-cxx11.tar.gz"
